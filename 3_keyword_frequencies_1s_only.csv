@@ -1,0 +1,1957 @@
+,keyword,ntee_cd,count,Include
+0,aquarium,A500,1,1
+1,aquarium,A570,1,1
+2,aquarium,B60,3,1
+3,aquarium,B90,2,1
+4,aquarium,C01,1,1
+5,aquarium,C03,1,1
+6,aquarium,C30,3,1
+7,aquarium,C32,2,1
+8,aquarium,C42,1,1
+9,aquarium,D01,1,1
+10,aquarium,D03,6,1
+11,aquarium,D030,1,1
+12,aquarium,D035,1,1
+13,aquarium,D05,1,1
+14,aquarium,D11,4,1
+15,aquarium,D110,2,1
+16,aquarium,D115,5,1
+17,aquarium,D20,2,1
+18,aquarium,D30,1,1
+19,aquarium,D500,14,1
+20,aquarium,D51M,1,1
+21,aquarium,D60,2,1
+22,aquarium,D600,1,1
+23,aquarium,D63Z,1,1
+24,aquarium,D99,2,1
+25,aquarium,N50,7,1
+26,aquarium,P20,2,1
+27,aquarium,S41,1,1
+28,aquarium,T20,1,1
+29,aquarium,T30,1,1
+30,aquarium,U21,1,1
+31,aquarium,U21Z,1,1
+32,aquarium,X21,1,1
+33,aquarium,Z99,1,1
+34,arboretum,A40,1,1
+35,arboretum,A60Z,1,1
+36,arboretum,A80,2,1
+37,arboretum,B99,1,1
+38,arboretum,C11,4,1
+39,arboretum,C110,1,1
+40,arboretum,C114,13,1
+41,arboretum,C12,1,1
+42,arboretum,C30,1,1
+43,arboretum,C30Z,1,1
+44,arboretum,C34,1,1
+45,arboretum,C410,36,1
+46,arboretum,C41I,1,1
+47,arboretum,C41Z,1,1
+48,arboretum,C42,2,1
+49,arboretum,C420,1,1
+50,arboretum,C50,1,1
+51,arboretum,C600,1,1
+52,arboretum,C99,1,1
+53,arboretum,D11,1,1
+54,arboretum,N11,1,1
+55,arboretum,N110,1,1
+56,arboretum,N32,2,1
+57,arboretum,S20,2,1
+58,arboretum,S22,1,1
+59,arboretum,S47,1,1
+60,arboretum,T20,1,1
+61,arboretum,T23,1,1
+62,arboretum,T99,1,1
+63,arboretum,U50,1,1
+64,arboretum,W11,1,1
+65,archive,A03,1,1
+66,archive,A11,2,1
+67,archive,A115,3,1
+68,archive,A12,2,1
+69,archive,A198,1,1
+70,archive,A20,15,1
+71,archive,A23,9,1
+72,archive,A230,1,1
+73,archive,A25,1,1
+74,archive,A30,1,1
+75,archive,A31,9,1
+76,archive,A310,1,1
+77,archive,A33,2,1
+78,archive,A40,2,1
+79,archive,A500,3,1
+80,archive,A50I,1,1
+81,archive,A540,4,1
+82,archive,A68,5,1
+83,archive,A70,3,1
+84,archive,A76I,1,1
+85,archive,A80,49,1
+86,archive,A80Z,2,1
+87,archive,A82,1,1
+88,archive,A82Z,6,1
+89,archive,A99,6,1
+90,archive,A99Z,1,1
+91,archive,B03,1,1
+92,archive,B117,3,1
+93,archive,B12,2,1
+94,archive,B127,1,1
+95,archive,B19,1,1
+96,archive,B60,1,1
+97,archive,B70,23,1
+98,archive,B700,1,1
+99,archive,B71Z,1,1
+100,archive,B73Z,1,1
+101,archive,B77I,1,1
+102,archive,B77Z,6,1
+103,archive,B80,1,1
+104,archive,B90,3,1
+105,archive,B99,4,1
+106,archive,B99M,1,1
+107,archive,C34,1,1
+108,archive,D19,1,1
+109,archive,D99,1,1
+110,archive,E70,1,1
+111,archive,G81Z,1,1
+112,archive,P20,2,1
+113,archive,P99,1,1
+114,archive,Q055,1,1
+115,archive,R26,3,1
+116,archive,S03,1,1
+117,archive,S20,1,1
+118,archive,S41,1,1
+119,archive,T11,1,1
+120,archive,T22,1,1
+121,archive,T23,1,1
+122,archive,T300,1,1
+123,archive,U20,2,1
+124,archive,U41,1,1
+125,archive,U99,2,1
+126,archive,V23,1,1
+127,archive,V30,1,1
+128,archive,V32,1,1
+129,archive,V33,1,1
+130,archive,W01,1,1
+131,archive,W20,1,1
+132,archive,W99,1,1
+133,archive,X01,1,1
+134,archive,X20,1,1
+135,archive,X30,2,1
+136,archive,X50,1,1
+137,archive,X80,1,1
+138,archive,X83,1,1
+139,archive,X99,3,1
+140,archive,Z99,2,1
+141,archive,Z99Z,2,1
+142,art gallery,A01,1,1
+143,art gallery,A035,1,1
+144,art gallery,A11,1,1
+145,art gallery,A110,1,1
+146,art gallery,A12,1,1
+147,art gallery,A125,1,1
+148,art gallery,A20,15,1
+149,art gallery,A200,1,1
+150,art gallery,A25,6,1
+151,art gallery,A40,8,1
+152,art gallery,A400,3,1
+153,art gallery,A500,1,1
+154,art gallery,A50M,1,1
+155,art gallery,A510,6,1
+156,art gallery,A51Z,3,1
+157,art gallery,A540,1,1
+158,art gallery,A82Z,1,1
+159,art gallery,A90,3,1
+160,art gallery,A99,4,1
+161,art gallery,P11,1,1
+162,art gallery,P193,1,1
+163,art gallery,P20,1,1
+164,art gallery,P30,2,1
+165,art gallery,P31,5,1
+166,art gallery,P32,2,1
+167,art gallery,P40,1,1
+168,art gallery,S41,1,1
+169,art gallery,T01,1,1
+170,art gallery,T22I,1,1
+171,atheneum,A510,1,1
+172,atheneum,B90,1,1
+173,atheneum,G30,1,1
+174,aviary,D053,1,1
+175,aviary,D20,1,1
+176,aviary,D32,1,1
+177,aviary,D32Z,1,1
+178,aviary,N50,1,1
+179,aviary,P20,1,1
+180,bird sanctuary,A20,1,1
+181,bird sanctuary,C30,1,1
+182,bird sanctuary,C410,1,1
+183,bird sanctuary,D113,3,1
+184,bird sanctuary,D20,8,1
+185,bird sanctuary,D30,3,1
+186,bird sanctuary,D32,18,1
+187,bird sanctuary,D320,4,1
+188,bird sanctuary,D99,1,1
+189,bird sanctuary,I400,1,1
+190,botanical garden,A510,1,1
+191,botanical garden,B90,2,1
+192,botanical garden,C01,1,1
+193,botanical garden,C11,2,1
+194,botanical garden,C114,15,1
+195,botanical garden,C12,1,1
+196,botanical garden,C124,1,1
+197,botanical garden,C40,6,1
+198,botanical garden,C410,39,1
+199,botanical garden,C41Z,1,1
+200,botanical garden,C42,3,1
+201,botanical garden,C50,1,1
+202,botanical garden,N32,1,1
+203,botanical garden,P99,1,1
+204,botanical garden,S20,1,1
+205,botanical garden,S80,1,1
+206,botanical garden,T12,1,1
+207,botanical garden,T23,3,1
+208,botanical park,C410,1,1
+209,collector,A030,1,1
+210,collector,A20,3,1
+211,collector,A200,1,1
+212,collector,A20Z,1,1
+213,collector,A23,2,1
+214,collector,A25,3,1
+215,collector,A40,2,1
+216,collector,A400,2,1
+217,collector,A500,3,1
+218,collector,A51Z,1,1
+219,collector,A58Z,2,1
+220,collector,A68,1,1
+221,collector,A70,2,1
+222,collector,A76Z,1,1
+223,collector,A80,36,1
+224,collector,A82Z,1,1
+225,collector,A84,2,1
+226,collector,A99,4,1
+227,collector,A99Z,1,1
+228,collector,B03,3,1
+229,collector,B036,1,1
+230,collector,B60,1,1
+231,collector,B76Z,1,1
+232,collector,B82,2,1
+233,collector,B82Z,2,1
+234,collector,B90,3,1
+235,collector,B99,6,1
+236,collector,B99Z,1,1
+237,collector,C20Z,1,1
+238,collector,K20Z,1,1
+239,collector,K99,1,1
+240,collector,M40,1,1
+241,collector,N03,1,1
+242,collector,N20,1,1
+243,collector,N31,1,1
+244,collector,N50,38,1
+245,collector,N50Z,2,1
+246,collector,N51I,1,1
+247,collector,N5XC,1,1
+248,collector,N5XZ,3,1
+249,collector,N61,3,1
+250,collector,N99,1,1
+251,collector,P20,3,1
+252,collector,S40,3,1
+253,collector,S41,9,1
+254,collector,S46,5,1
+255,collector,T12,1,1
+256,collector,T20,1,1
+257,collector,T50,1,1
+258,collector,T99Z,1,1
+259,collector,U30,1,1
+260,collector,U99Z,1,1
+261,collector,W02,2,1
+262,collector,W03,1,1
+263,collector,W30,1,1
+264,collector,W99,1,1
+265,collector,X20,1,1
+266,collector,Y11,1,1
+267,collector,Y44,1,1
+268,collector,Y99,1,1
+269,collector,Z99,3,1
+270,collector,Z99Z,1,1
+271,game park,C300,1,1
+272,game park,Z99,1,1
+273,game refuge,C30,1,1
+274,hall fame,A03,1,1
+275,hall fame,A030,1,1
+276,hall fame,A033,1,1
+277,hall fame,A11,1,1
+278,hall fame,A115,3,1
+279,hall fame,A12,1,1
+280,hall fame,A20,15,1
+281,hall fame,A200,1,1
+282,hall fame,A23,9,1
+283,hall fame,A25,1,1
+284,hall fame,A31,1,1
+285,hall fame,A34,2,1
+286,hall fame,A500,67,1
+287,hall fame,A50Z,8,1
+288,hall fame,A540,3,1
+289,hall fame,A570,3,1
+290,hall fame,A57Z,1,1
+291,hall fame,A58I,2,1
+292,hall fame,A58Z,9,1
+293,hall fame,A60,1,1
+294,hall fame,A62,2,1
+295,hall fame,A68,12,1
+296,hall fame,A68Z,1,1
+297,hall fame,A6C,2,1
+298,hall fame,A8,1,1
+299,hall fame,A80,29,1
+300,hall fame,A82Z,1,1
+301,hall fame,A84,14,1
+302,hall fame,A99,4,1
+303,hall fame,A99Z,1,1
+304,hall fame,B01,2,1
+305,hall fame,B03,3,1
+306,hall fame,B11,14,1
+307,hall fame,B112,2,1
+308,hall fame,B119,1,1
+309,hall fame,B12,3,1
+310,hall fame,B122,1,1
+311,hall fame,B19,4,1
+312,hall fame,B25,2,1
+313,hall fame,B60,2,1
+314,hall fame,B77Z,1,1
+315,hall fame,B80,3,1
+316,hall fame,B80Z,1,1
+317,hall fame,B82,38,1
+318,hall fame,B82Z,1,1
+319,hall fame,B84,13,1
+320,hall fame,B84Z,1,1
+321,hall fame,B90,4,1
+322,hall fame,B94,1,1
+323,hall fame,B99,14,1
+324,hall fame,C30,1,1
+325,hall fame,D99,1,1
+326,hall fame,E11,1,1
+327,hall fame,E12,1,1
+328,hall fame,F21I,1,1
+329,hall fame,H54,1,1
+330,hall fame,I99,1,1
+331,hall fame,L30,1,1
+332,hall fame,L99Z,1,1
+333,hall fame,M20,1,1
+334,hall fame,N01,5,1
+335,hall fame,N02,1,1
+336,hall fame,N03,9,1
+337,hall fame,N11,14,1
+338,hall fame,N116,1,1
+339,hall fame,N12,20,1
+340,hall fame,N126,1,1
+341,hall fame,N19,9,1
+342,hall fame,N20,3,1
+343,hall fame,N20Z,2,1
+344,hall fame,N40,1,1
+345,hall fame,N50,7,1
+346,hall fame,N52,1,1
+347,hall fame,N60,26,1
+348,hall fame,N60Z,3,1
+349,hall fame,N62,3,1
+350,hall fame,N63,2,1
+351,hall fame,N64,2,1
+352,hall fame,N65,3,1
+353,hall fame,N66,2,1
+354,hall fame,N660,1,1
+355,hall fame,N67,3,1
+356,hall fame,N67Z,1,1
+357,hall fame,N68Z,1,1
+358,hall fame,N690,1,1
+359,hall fame,N6A,3,1
+360,hall fame,N6AZ,1,1
+361,hall fame,N70,1,1
+362,hall fame,N80,2,1
+363,hall fame,N99,31,1
+364,hall fame,N99Z,1,1
+365,hall fame,O50,4,1
+366,hall fame,O50Z,1,1
+367,hall fame,O53Z,1,1
+368,hall fame,P03,1,1
+369,hall fame,P12,1,1
+370,hall fame,P20,5,1
+371,hall fame,P29,1,1
+372,hall fame,P30,1,1
+373,hall fame,P80,1,1
+374,hall fame,P81,1,1
+375,hall fame,P99,1,1
+376,hall fame,Q99,1,1
+377,hall fame,S01,1,1
+378,hall fame,S20,1,1
+379,hall fame,S20Z,1,1
+380,hall fame,S41,3,1
+381,hall fame,S50,1,1
+382,hall fame,S81,2,1
+383,hall fame,S99,2,1
+384,hall fame,T03,1,1
+385,hall fame,T11,1,1
+386,hall fame,T12,2,1
+387,hall fame,T20,5,1
+388,hall fame,T30,4,1
+389,hall fame,T31,1,1
+390,hall fame,T50,1,1
+391,hall fame,T70,1,1
+392,hall fame,T99,1,1
+393,hall fame,U990,1,1
+394,hall fame,W12,1,1
+395,hall fame,W24,1,1
+396,hall fame,W30,11,1
+397,hall fame,W70,3,1
+398,hall fame,W99,3,1
+399,hall fame,X20,1,1
+400,hall fame,X99Z,1,1
+401,hall fame,Z99,4,1
+402,hall fame,Z99Z,3,1
+403,herbarium,H053,1,1
+404,herbarium,U03,1,1
+405,historical societ,A01,1,1
+406,historical societ,A03,2,1
+407,historical societ,A030,1,1
+408,historical societ,A11,5,1
+409,historical societ,A111,1,1
+410,historical societ,A115,2,1
+411,historical societ,A118,4,1
+412,historical societ,A12,1,1
+413,historical societ,A20,21,1
+414,historical societ,A20M,1,1
+415,historical societ,A20Z,3,1
+416,historical societ,A23,16,1
+417,historical societ,A230,3,1
+418,historical societ,A23Z,1,1
+419,historical societ,A24Z,1,1
+420,historical societ,A30,3,1
+421,historical societ,A33Z,1,1
+422,historical societ,A34,1,1
+423,historical societ,A40,2,1
+424,historical societ,A500,6,1
+425,historical societ,A502,2,1
+426,historical societ,A50I,2,1
+427,historical societ,A50M,1,1
+428,historical societ,A50Z,54,1
+429,historical societ,A51Z,1,1
+430,historical societ,A52Z,1,1
+431,historical societ,A540,47,1
+432,historical societ,A54I,1,1
+433,historical societ,A54M,2,1
+434,historical societ,A54Z,34,1
+435,historical societ,A56Z,1,1
+436,historical societ,A59Z,2,1
+437,historical societ,A5AZ,1,1
+438,historical societ,A60,5,1
+439,historical societ,A65,1,1
+440,historical societ,A6CZ,1,1
+441,historical societ,A70,7,1
+442,historical societ,A72Z,1,1
+443,historical societ,A80,2164,1
+444,historical societ,A800,71,1
+445,historical societ,A802,1,1
+446,historical societ,A80M,3,1
+447,historical societ,A80Z,106,1
+448,historical societ,A82,76,1
+449,historical societ,A82A,1,1
+450,historical societ,A82B,1,1
+451,historical societ,A82I,10,1
+452,historical societ,A82M,7,1
+453,historical societ,A82Z,560,1
+454,historical societ,A83Z,4,1
+455,historical societ,A84,23,1
+456,historical societ,A84Z,2,1
+457,historical societ,A85A,1,1
+458,historical societ,A85Z,4,1
+459,historical societ,A99,45,1
+460,historical societ,A990,1,1
+461,historical societ,A99I,1,1
+462,historical societ,A99M,2,1
+463,historical societ,A99Z,14,1
+464,historical societ,B01,2,1
+465,historical societ,B03,5,1
+466,historical societ,B05,1,1
+467,historical societ,B11,4,1
+468,historical societ,B117,2,1
+469,historical societ,B12,1,1
+470,historical societ,B41,1,1
+471,historical societ,B60,4,1
+472,historical societ,B64Z,1,1
+473,historical societ,B70,7,1
+474,historical societ,B70Z,6,1
+475,historical societ,B71Z,2,1
+476,historical societ,B77Z,1,1
+477,historical societ,B80,2,1
+478,historical societ,B80Z,2,1
+479,historical societ,B82,2,1
+480,historical societ,B82B,1,1
+481,historical societ,B82Z,2,1
+482,historical societ,B90,23,1
+483,historical societ,B99,32,1
+484,historical societ,B99L,1,1
+485,historical societ,B99M,1,1
+486,historical societ,B99Z,8,1
+487,historical societ,C03,1,1
+488,historical societ,C30,3,1
+489,historical societ,C30Z,1,1
+490,historical societ,C42,1,1
+491,historical societ,C50,1,1
+492,historical societ,C99,1,1
+493,historical societ,C99Z,5,1
+494,historical societ,D12,1,1
+495,historical societ,D51D,1,1
+496,historical societ,D60,1,1
+497,historical societ,D99,1,1
+498,historical societ,E03,1,1
+499,historical societ,E11,1,1
+500,historical societ,H30,1,1
+501,historical societ,H54I,1,1
+502,historical societ,H80,1,1
+503,historical societ,I21,1,1
+504,historical societ,I50,1,1
+505,historical societ,I60Z,1,1
+506,historical societ,I99,1,1
+507,historical societ,K990,1,1
+508,historical societ,L20Z,1,1
+509,historical societ,L25Z,1,1
+510,historical societ,M24,3,1
+511,historical societ,M40,1,1
+512,historical societ,N12,1,1
+513,historical societ,N20,3,1
+514,historical societ,N31,1,1
+515,historical societ,N32,2,1
+516,historical societ,N50,4,1
+517,historical societ,N50Z,1,1
+518,historical societ,N52,2,1
+519,historical societ,N52Z,1,1
+520,historical societ,O40Z,2,1
+521,historical societ,O99,1,1
+522,historical societ,P03,1,1
+523,historical societ,P20,11,1
+524,historical societ,P20Z,2,1
+525,historical societ,P28,1,1
+526,historical societ,P30,1,1
+527,historical societ,P40,1,1
+528,historical societ,P81Z,1,1
+529,historical societ,P84,1,1
+530,historical societ,P99,3,1
+531,historical societ,S03,1,1
+532,historical societ,S12,1,1
+533,historical societ,S20,7,1
+534,historical societ,S20I,1,1
+535,historical societ,S22,1,1
+536,historical societ,S80,2,1
+537,historical societ,S80Z,1,1
+538,historical societ,S99,5,1
+539,historical societ,T00Z,1,1
+540,historical societ,T03,1,1
+541,historical societ,T112,1,1
+542,historical societ,T20,3,1
+543,historical societ,T20I,1,1
+544,historical societ,T22,1,1
+545,historical societ,T23,3,1
+546,historical societ,T30,4,1
+547,historical societ,T50,6,1
+548,historical societ,T70,1,1
+549,historical societ,T70I,1,1
+550,historical societ,T70Z,1,1
+551,historical societ,T90,1,1
+552,historical societ,U20,1,1
+553,historical societ,U42,1,1
+554,historical societ,V21,1,1
+555,historical societ,V24Z,1,1
+556,historical societ,V30,1,1
+557,historical societ,V99,1,1
+558,historical societ,W11,3,1
+559,historical societ,W12,1,1
+560,historical societ,W193,1,1
+561,historical societ,W24,3,1
+562,historical societ,W30,3,1
+563,historical societ,W99,13,1
+564,historical societ,X11,1,1
+565,historical societ,X12,1,1
+566,historical societ,X20,2,1
+567,historical societ,X20Z,1,1
+568,historical societ,X21,1,1
+569,historical societ,X30,1,1
+570,historical societ,X99Z,1,1
+571,historical societ,Y40,1,1
+572,historical societ,Y50,1,1
+573,historical societ,Y99,1,1
+574,historical societ,Z82Z,1,1
+575,historical societ,Z99,20,1
+576,historical societ,Z99Z,23,1
+577,historical society,A01,1,1
+578,historical society,A03,2,1
+579,historical society,A030,1,1
+580,historical society,A11,5,1
+581,historical society,A111,1,1
+582,historical society,A115,2,1
+583,historical society,A118,4,1
+584,historical society,A12,1,1
+585,historical society,A20,21,1
+586,historical society,A20M,1,1
+587,historical society,A20Z,3,1
+588,historical society,A23,16,1
+589,historical society,A230,3,1
+590,historical society,A23Z,1,1
+591,historical society,A24Z,1,1
+592,historical society,A30,3,1
+593,historical society,A33Z,1,1
+594,historical society,A34,1,1
+595,historical society,A40,2,1
+596,historical society,A500,6,1
+597,historical society,A502,2,1
+598,historical society,A50I,2,1
+599,historical society,A50M,1,1
+600,historical society,A50Z,54,1
+601,historical society,A51Z,1,1
+602,historical society,A52Z,1,1
+603,historical society,A540,47,1
+604,historical society,A54I,1,1
+605,historical society,A54M,2,1
+606,historical society,A54Z,34,1
+607,historical society,A56Z,1,1
+608,historical society,A59Z,2,1
+609,historical society,A5AZ,1,1
+610,historical society,A60,5,1
+611,historical society,A65,1,1
+612,historical society,A6CZ,1,1
+613,historical society,A70,7,1
+614,historical society,A72Z,1,1
+615,historical society,A80,2163,1
+616,historical society,A800,71,1
+617,historical society,A802,1,1
+618,historical society,A80M,3,1
+619,historical society,A80Z,106,1
+620,historical society,A82,76,1
+621,historical society,A82A,1,1
+622,historical society,A82B,1,1
+623,historical society,A82I,10,1
+624,historical society,A82M,7,1
+625,historical society,A82Z,559,1
+626,historical society,A83Z,4,1
+627,historical society,A84,23,1
+628,historical society,A84Z,2,1
+629,historical society,A85A,1,1
+630,historical society,A85Z,4,1
+631,historical society,A99,45,1
+632,historical society,A990,1,1
+633,historical society,A99I,1,1
+634,historical society,A99M,2,1
+635,historical society,A99Z,14,1
+636,historical society,B01,2,1
+637,historical society,B03,5,1
+638,historical society,B05,1,1
+639,historical society,B11,4,1
+640,historical society,B117,2,1
+641,historical society,B12,1,1
+642,historical society,B41,1,1
+643,historical society,B60,4,1
+644,historical society,B64Z,1,1
+645,historical society,B70,7,1
+646,historical society,B70Z,6,1
+647,historical society,B71Z,2,1
+648,historical society,B77Z,1,1
+649,historical society,B80,2,1
+650,historical society,B80Z,2,1
+651,historical society,B82,2,1
+652,historical society,B82B,1,1
+653,historical society,B82Z,2,1
+654,historical society,B90,23,1
+655,historical society,B99,32,1
+656,historical society,B99L,1,1
+657,historical society,B99M,1,1
+658,historical society,B99Z,7,1
+659,historical society,C03,1,1
+660,historical society,C30,3,1
+661,historical society,C30Z,1,1
+662,historical society,C42,1,1
+663,historical society,C50,1,1
+664,historical society,C99,1,1
+665,historical society,C99Z,5,1
+666,historical society,D12,1,1
+667,historical society,D51D,1,1
+668,historical society,D60,1,1
+669,historical society,D99,1,1
+670,historical society,E03,1,1
+671,historical society,E11,1,1
+672,historical society,H30,1,1
+673,historical society,H54I,1,1
+674,historical society,H80,1,1
+675,historical society,I21,1,1
+676,historical society,I50,1,1
+677,historical society,I60Z,1,1
+678,historical society,I99,1,1
+679,historical society,K990,1,1
+680,historical society,L20Z,1,1
+681,historical society,L25Z,1,1
+682,historical society,M24,3,1
+683,historical society,M40,1,1
+684,historical society,N12,1,1
+685,historical society,N20,3,1
+686,historical society,N31,1,1
+687,historical society,N32,2,1
+688,historical society,N50,4,1
+689,historical society,N50Z,1,1
+690,historical society,N52,2,1
+691,historical society,N52Z,1,1
+692,historical society,O40Z,2,1
+693,historical society,O99,1,1
+694,historical society,P03,1,1
+695,historical society,P20,11,1
+696,historical society,P20Z,2,1
+697,historical society,P28,1,1
+698,historical society,P30,1,1
+699,historical society,P40,1,1
+700,historical society,P81Z,1,1
+701,historical society,P84,1,1
+702,historical society,P99,3,1
+703,historical society,S03,1,1
+704,historical society,S12,1,1
+705,historical society,S20,7,1
+706,historical society,S20I,1,1
+707,historical society,S22,1,1
+708,historical society,S80,2,1
+709,historical society,S80Z,1,1
+710,historical society,S99,5,1
+711,historical society,T00Z,1,1
+712,historical society,T03,1,1
+713,historical society,T112,1,1
+714,historical society,T20,3,1
+715,historical society,T20I,1,1
+716,historical society,T22,1,1
+717,historical society,T23,3,1
+718,historical society,T30,4,1
+719,historical society,T50,6,1
+720,historical society,T70,1,1
+721,historical society,T70I,1,1
+722,historical society,T70Z,1,1
+723,historical society,T90,1,1
+724,historical society,U20,1,1
+725,historical society,U42,1,1
+726,historical society,V21,1,1
+727,historical society,V24Z,1,1
+728,historical society,V30,1,1
+729,historical society,V99,1,1
+730,historical society,W11,3,1
+731,historical society,W12,1,1
+732,historical society,W193,1,1
+733,historical society,W24,3,1
+734,historical society,W30,3,1
+735,historical society,W99,13,1
+736,historical society,X11,1,1
+737,historical society,X12,1,1
+738,historical society,X20,2,1
+739,historical society,X20Z,1,1
+740,historical society,X21,1,1
+741,historical society,X30,1,1
+742,historical society,X99Z,1,1
+743,historical society,Y40,1,1
+744,historical society,Y50,1,1
+745,historical society,Y99,1,1
+746,historical society,Z82Z,1,1
+747,historical society,Z99,20,1
+748,historical society,Z99Z,23,1
+749,library,A01,7,1
+750,library,A03,6,1
+751,library,A11,61,1
+752,library,A110,1,1
+753,library,A111,4,1
+754,library,A112,1,1
+755,library,A115,2,1
+756,library,A117,1,1
+757,library,A12,22,1
+758,library,A19,2,1
+759,library,A20,17,1
+760,library,A20Z,1,1
+761,library,A23,9,1
+762,library,A25,2,1
+763,library,A26,2,1
+764,library,A30,1,1
+765,library,A31,1,1
+766,library,A33,1,1
+767,library,A33Z,1,1
+768,library,A3XZ,1,1
+769,library,A40,1,1
+770,library,A500,6,1
+771,library,A50I,1,1
+772,library,A50Z,4,1
+773,library,A510,1,1
+774,library,A51Z,1,1
+775,library,A540,11,1
+776,library,A54Z,1,1
+777,library,A570,1,1
+778,library,A59Z,1,1
+779,library,A60,1,1
+780,library,A62Z,1,1
+781,library,A68,7,1
+782,library,A70,23,1
+783,library,A700,1,1
+784,library,A76I,4,1
+785,library,A76J,2,1
+786,library,A76M,3,1
+787,library,A76Z,15,1
+788,library,A80,19,1
+789,library,A800,3,1
+790,library,A80Z,1,1
+791,library,A82,2,1
+792,library,A82Z,5,1
+793,library,A83Z,3,1
+794,library,A84,3,1
+795,library,A90,1,1
+796,library,A99,16,1
+797,library,A99Z,9,1
+798,library,B01,22,1
+799,library,B02,7,1
+800,library,B022,1,1
+801,library,B027,2,1
+802,library,B03,12,1
+803,library,B030,2,1
+804,library,B037,4,1
+805,library,B05,2,1
+806,library,B057,1,1
+807,library,B1,2,1
+808,library,B11,1102,1
+809,library,B110,17,1
+810,library,B111,1,1
+811,library,B112,16,1
+812,library,B114,1,1
+813,library,B115,3,1
+814,library,B116,1,1
+815,library,B117,973,1
+816,library,B12,134,1
+817,library,B122,1,1
+818,library,B127,50,1
+819,library,B19,50,1
+820,library,B190,1,1
+821,library,B194,1,1
+822,library,B197,16,1
+823,library,B199,1,1
+824,library,B20,2,1
+825,library,B20M,1,1
+826,library,B20Z,2,1
+827,library,B21,1,1
+828,library,B28,1,1
+829,library,B30Z,1,1
+830,library,B41,1,1
+831,library,B50,6,1
+832,library,B54Z,2,1
+833,library,B60,5,1
+834,library,B61Z,1,1
+835,library,B64Z,3,1
+836,library,B70,1803,1
+837,library,B700,114,1
+838,library,B701,1,1
+839,library,B702,3,1
+840,library,B70A,2,1
+841,library,B70B,5,1
+842,library,B70C,9,1
+843,library,B70I,28,1
+844,library,B70J,6,1
+845,library,B70M,7,1
+846,library,B70O,1,1
+847,library,B70Z,205,1
+848,library,B71B,11,1
+849,library,B71C,8,1
+850,library,B71I,235,1
+851,library,B71J,8,1
+852,library,B71L,1,1
+853,library,B71M,2,1
+854,library,B71O,1,1
+855,library,B71Z,498,1
+856,library,B72I,9,1
+857,library,B72Z,3,1
+858,library,B73A,1,1
+859,library,B73C,3,1
+860,library,B73I,2,1
+861,library,B73Z,4,1
+862,library,B74A,1,1
+863,library,B74C,1,1
+864,library,B74I,2,1
+865,library,B74Z,2,1
+866,library,B75I,2,1
+867,library,B75J,1,1
+868,library,B75Z,9,1
+869,library,B76I,4,1
+870,library,B76Z,19,1
+871,library,B77B,3,1
+872,library,B77Z,1,1
+873,library,B7IZ,1,1
+874,library,B80,27,1
+875,library,B80Z,5,1
+876,library,B82,9,1
+877,library,B820,1,1
+878,library,B82Z,5,1
+879,library,B83Z,1,1
+880,library,B90,51,1
+881,library,B90Z,1,1
+882,library,B92,46,1
+883,library,B92Z,1,1
+884,library,B94,6,1
+885,library,B94Z,10,1
+886,library,B99,64,1
+887,library,B990,1,1
+888,library,B99B,1,1
+889,library,B99Z,14,1
+890,library,C11,2,1
+891,library,C30Z,1,1
+892,library,C42,2,1
+893,library,C50,2,1
+894,library,C99,4,1
+895,library,E70,3,1
+896,library,F99,1,1
+897,library,G12,1,1
+898,library,G19,1,1
+899,library,G198,1,1
+900,library,G90,1,1
+901,library,I12,1,1
+902,library,I20Z,5,1
+903,library,I50,1,1
+904,library,I99,2,1
+905,library,I99Z,1,1
+906,library,J00Z,1,1
+907,library,J03,1,1
+908,library,J20Z,1,1
+909,library,J40,5,1
+910,library,L80,2,1
+911,library,M03,1,1
+912,library,M20,1,1
+913,library,N20,9,1
+914,library,N32Z,1,1
+915,library,N64,1,1
+916,library,N711,1,1
+917,library,N99,3,1
+918,library,O11,2,1
+919,library,O12,1,1
+920,library,O20,1,1
+921,library,O40Z,2,1
+922,library,O50,8,1
+923,library,O51Z,1,1
+924,library,P11,2,1
+925,library,P12,1,1
+926,library,P19,1,1
+927,library,P20,35,1
+928,library,P20Z,5,1
+929,library,P28,1,1
+930,library,P29,2,1
+931,library,P29Z,1,1
+932,library,P30,7,1
+933,library,P330,1,1
+934,library,P50,1,1
+935,library,P58,1,1
+936,library,P70,1,1
+937,library,P71I,1,1
+938,library,P80,4,1
+939,library,P80Z,2,1
+940,library,P83Z,1,1
+941,library,P86,2,1
+942,library,P99,7,1
+943,library,Q02,1,1
+944,library,Q112,1,1
+945,library,Q113,1,1
+946,library,Q200,1,1
+947,library,Q21,1,1
+948,library,Q23,1,1
+949,library,Q30,3,1
+950,library,Q33,3,1
+951,library,R01,1,1
+952,library,R11,1,1
+953,library,R12,1,1
+954,library,R20Z,1,1
+955,library,R30,1,1
+956,library,R99,1,1
+957,library,S01,1,1
+958,library,S11,14,1
+959,library,S12,16,1
+960,library,S20,13,1
+961,library,S20J,1,1
+962,library,S20O,1,1
+963,library,S21,2,1
+964,library,S21I,1,1
+965,library,S31I,1,1
+966,library,S32,1,1
+967,library,S41,5,1
+968,library,S44C,1,1
+969,library,S47,4,1
+970,library,S50B,1,1
+971,library,S50I,2,1
+972,library,S50M,1,1
+973,library,S50Z,5,1
+974,library,S80,11,1
+975,library,S80M,1,1
+976,library,S80Z,2,1
+977,library,S99,10,1
+978,library,S99Z,2,1
+979,library,T00J,1,1
+980,library,T00Z,7,1
+981,library,T01,1,1
+982,library,T022,1,1
+983,library,T03,1,1
+984,library,T11,58,1
+985,library,T112,1,1
+986,library,T113,1,1
+987,library,T117,1,1
+988,library,T12,20,1
+989,library,T123,1,1
+990,library,T19,1,1
+991,library,T20,39,1
+992,library,T202,3,1
+993,library,T20I,3,1
+994,library,T20J,1,1
+995,library,T20Z,12,1
+996,library,T21,4,1
+997,library,T21J,1,1
+998,library,T21Z,2,1
+999,library,T22,18,1
+1000,library,T22I,3,1
+1001,library,T22J,1,1
+1002,library,T22Z,5,1
+1003,library,T23,6,1
+1004,library,T30,74,1
+1005,library,T30I,6,1
+1006,library,T30J,8,1
+1007,library,T30Z,23,1
+1008,library,T31,12,1
+1009,library,T31J,1,1
+1010,library,T40,1,1
+1011,library,T50,22,1
+1012,library,T50G,1,1
+1013,library,T50I,3,1
+1014,library,T50Z,5,1
+1015,library,T60Z,1,1
+1016,library,T70,9,1
+1017,library,T70I,2,1
+1018,library,T70J,1,1
+1019,library,T70Z,6,1
+1020,library,T90,8,1
+1021,library,T90Z,2,1
+1022,library,T99,11,1
+1023,library,T990,3,1
+1024,library,T99I,2,1
+1025,library,T99Z,15,1
+1026,library,U05,1,1
+1027,library,U20,1,1
+1028,library,U36Z,1,1
+1029,library,U41,1,1
+1030,library,V03,1,1
+1031,library,V35Z,1,1
+1032,library,W00O,1,1
+1033,library,W11,25,1
+1034,library,W12,13,1
+1035,library,W122,1,1
+1036,library,W20,5,1
+1037,library,W30,1,1
+1038,library,W40,1,1
+1039,library,W40I,1,1
+1040,library,W40Z,1,1
+1041,library,W80,1,1
+1042,library,W99,29,1
+1043,library,X03,1,1
+1044,library,X117,1,1
+1045,library,X19,2,1
+1046,library,X20,7,1
+1047,library,X21,3,1
+1048,library,X21Z,1,1
+1049,library,X22,1,1
+1050,library,X50,1,1
+1051,library,X80,1,1
+1052,library,X83,1,1
+1053,library,X99,2,1
+1054,library,Y03,2,1
+1055,library,Y11,1,1
+1056,library,Y40Z,1,1
+1057,library,Y43,1,1
+1058,library,Y44,2,1
+1059,library,Y99,1,1
+1060,library,Z99,23,1
+1061,library,Z99I,2,1
+1062,library,Z99Z,38,1
+1063,memorabilia,N19,1,1
+1064,memorabilia,O50,1,1
+1065,memorabilia,W30,1,1
+1066,menagerie,A60,1,1
+1067,menagerie,D01,1,1
+1068,menagerie,D20,9,1
+1069,menagerie,D30,1,1
+1070,menagerie,F99,1,1
+1071,menagerie,P01,1,1
+1072,museum,A01,3,1
+1073,museum,A015,1,1
+1074,museum,A02,1,1
+1075,museum,A020,1,1
+1076,museum,A025,1,1
+1077,museum,A03,7,1
+1078,museum,A030,11,1
+1079,museum,A035,4,1
+1080,museum,A050,1,1
+1081,museum,A11,80,1
+1082,museum,A110,17,1
+1083,museum,A112,2,1
+1084,museum,A114,2,1
+1085,museum,A115,141,1
+1086,museum,A116,2,1
+1087,museum,A118,2,1
+1088,museum,A12,22,1
+1089,museum,A120,3,1
+1090,museum,A125,10,1
+1091,museum,A128,1,1
+1092,museum,A19,7,1
+1093,museum,A195,3,1
+1094,museum,A20,51,1
+1095,museum,A200,3,1
+1096,museum,A20Z,3,1
+1097,museum,A23,30,1
+1098,museum,A230,2,1
+1099,museum,A25,11,1
+1100,museum,A25Z,1,1
+1101,museum,A26,1,1
+1102,museum,A26Z,2,1
+1103,museum,A30,2,1
+1104,museum,A31,3,1
+1105,museum,A32,1,1
+1106,museum,A40,8,1
+1107,museum,A400,15,1
+1108,museum,A40P,1,1
+1109,museum,A42Z,1,1
+1110,museum,A500,332,1
+1111,museum,A502,1,1
+1112,museum,A508,1,1
+1113,museum,A50A,1,1
+1114,museum,A50C,5,1
+1115,museum,A50I,15,1
+1116,museum,A50J,1,1
+1117,museum,A50M,7,1
+1118,museum,A50P,1,1
+1119,museum,A50Z,73,1
+1120,museum,A510,220,1
+1121,museum,A51I,16,1
+1122,museum,A51J,1,1
+1123,museum,A51M,1,1
+1124,museum,A51Q,1,1
+1125,museum,A51Z,10,1
+1126,museum,A520,119,1
+1127,museum,A525,1,1
+1128,museum,A52C,1,1
+1129,museum,A52I,4,1
+1130,museum,A53I,2,1
+1131,museum,A53M,1,1
+1132,museum,A53Z,4,1
+1133,museum,A540,409,1
+1134,museum,A54I,7,1
+1135,museum,A54M,4,1
+1136,museum,A54Z,48,1
+1137,museum,A55I,1,1
+1138,museum,A55M,1,1
+1139,museum,A55Z,3,1
+1140,museum,A560,51,1
+1141,museum,A56I,3,1
+1142,museum,A56J,1,1
+1143,museum,A56Z,5,1
+1144,museum,A570,30,1
+1145,museum,A57I,1,1
+1146,museum,A57Z,6,1
+1147,museum,A58M,2,1
+1148,museum,A58Z,7,1
+1149,museum,A59I,3,1
+1150,museum,A59M,2,1
+1151,museum,A59Z,23,1
+1152,museum,A5AZ,1,1
+1153,museum,A5IZ,1,1
+1154,museum,A60,6,1
+1155,museum,A60Z,2,1
+1156,museum,A62,2,1
+1157,museum,A68,8,1
+1158,museum,A70,3,1
+1159,museum,A72Z,1,1
+1160,museum,A80,189,1
+1161,museum,A800,7,1
+1162,museum,A80Z,8,1
+1163,museum,A82,4,1
+1164,museum,A82L,1,1
+1165,museum,A82Z,39,1
+1166,museum,A83Z,1,1
+1167,museum,A84,9,1
+1168,museum,A90,1,1
+1169,museum,A90Z,2,1
+1170,museum,A99,41,1
+1171,museum,A99Z,9,1
+1172,museum,B01,4,1
+1173,museum,B03,2,1
+1174,museum,B11,14,1
+1175,museum,B12,4,1
+1176,museum,B122,1,1
+1177,museum,B19,1,1
+1178,museum,B20,2,1
+1179,museum,B30,1,1
+1180,museum,B30M,1,1
+1181,museum,B51Z,2,1
+1182,museum,B60,2,1
+1183,museum,B70,14,1
+1184,museum,B700,3,1
+1185,museum,B70Z,4,1
+1186,museum,B71J,1,1
+1187,museum,B76Z,1,1
+1188,museum,B80,4,1
+1189,museum,B80Z,1,1
+1190,museum,B82,1,1
+1191,museum,B82Z,2,1
+1192,museum,B90,23,1
+1193,museum,B92,3,1
+1194,museum,B94,1,1
+1195,museum,B94Z,1,1
+1196,museum,B95Z,1,1
+1197,museum,B99,25,1
+1198,museum,B99M,1,1
+1199,museum,B99Z,4,1
+1200,museum,C30,1,1
+1201,museum,C30Z,1,1
+1202,museum,C32,1,1
+1203,museum,C42,1,1
+1204,museum,C420,1,1
+1205,museum,C50,1,1
+1206,museum,C60,3,1
+1207,museum,C99Z,2,1
+1208,museum,D115,1,1
+1209,museum,D500,1,1
+1210,museum,D51D,1,1
+1211,museum,D60,1,1
+1212,museum,D99,1,1
+1213,museum,E11,1,1
+1214,museum,E20Z,1,1
+1215,museum,E40,1,1
+1216,museum,G25,1,1
+1217,museum,I20,1,1
+1218,museum,I50,1,1
+1219,museum,J220,1,1
+1220,museum,J32Z,1,1
+1221,museum,K03,1,1
+1222,museum,K25,1,1
+1223,museum,K31,1,1
+1224,museum,K99,1,1
+1225,museum,L20,1,1
+1226,museum,M24,2,1
+1227,museum,N11,1,1
+1228,museum,N19,1,1
+1229,museum,N193,1,1
+1230,museum,N20Z,1,1
+1231,museum,N32Z,1,1
+1232,museum,N40,1,1
+1233,museum,N50,1,1
+1234,museum,N64,1,1
+1235,museum,N690,1,1
+1236,museum,N80,1,1
+1237,museum,N99,1,1
+1238,museum,O20,2,1
+1239,museum,O40Z,1,1
+1240,museum,O41,1,1
+1241,museum,O50,3,1
+1242,museum,P03,1,1
+1243,museum,P20,18,1
+1244,museum,P30,3,1
+1245,museum,P40,2,1
+1246,museum,P80,1,1
+1247,museum,P80Z,1,1
+1248,museum,P99,2,1
+1249,museum,P999,1,1
+1250,museum,Q11,1,1
+1251,museum,Q110,1,1
+1252,museum,Q112,5,1
+1253,museum,Q12,1,1
+1254,museum,Q20,1,1
+1255,museum,Q21,2,1
+1256,museum,Q33,1,1
+1257,museum,Q70,1,1
+1258,museum,R20,1,1
+1259,museum,S11,2,1
+1260,museum,S12,1,1
+1261,museum,S20,4,1
+1262,museum,S22,1,1
+1263,museum,S31,1,1
+1264,museum,S31I,1,1
+1265,museum,S40,1,1
+1266,museum,S41,2,1
+1267,museum,S47,1,1
+1268,museum,S50,1,1
+1269,museum,S80,2,1
+1270,museum,S80Z,1,1
+1271,museum,S99,1,1
+1272,museum,T11,8,1
+1273,museum,T12,5,1
+1274,museum,T20,7,1
+1275,museum,T20Z,1,1
+1276,museum,T22,9,1
+1277,museum,T22J,1,1
+1278,museum,T22Z,2,1
+1279,museum,T23,20,1
+1280,museum,T30,16,1
+1281,museum,T30Z,2,1
+1282,museum,T31,3,1
+1283,museum,T31Z,2,1
+1284,museum,T50,4,1
+1285,museum,T50I,2,1
+1286,museum,T50Z,2,1
+1287,museum,T70,1,1
+1288,museum,T70I,2,1
+1289,museum,T90,1,1
+1290,museum,T90I,1,1
+1291,museum,T99Z,4,1
+1292,museum,U21,1,1
+1293,museum,U300,1,1
+1294,museum,U31,1,1
+1295,museum,U40,1,1
+1296,museum,U42,1,1
+1297,museum,U99,3,1
+1298,museum,V31,1,1
+1299,museum,V33,1,1
+1300,museum,V99,1,1
+1301,museum,W11,1,1
+1302,museum,W20,1,1
+1303,museum,W30,1,1
+1304,museum,W99,5,1
+1305,museum,X19,1,1
+1306,museum,X20,3,1
+1307,museum,X22,2,1
+1308,museum,X30,4,1
+1309,museum,X70,1,1
+1310,museum,X99,1,1
+1311,museum,X99I,1,1
+1312,museum,X99Z,3,1
+1313,museum,Y03,1,1
+1314,museum,Y40Z,1,1
+1315,museum,Y42,1,1
+1316,museum,Z99,16,1
+1317,museum,Z99Z,20,1
+1318,national park,A20,1,1
+1319,national park,A25,1,1
+1320,national park,A500,1,1
+1321,national park,A560,1,1
+1322,national park,A80Z,1,1
+1323,national park,A82Z,2,1
+1324,national park,B64Z,1,1
+1325,national park,B82,1,1
+1326,national park,C01,1,1
+1327,national park,C11,1,1
+1328,national park,C110,1,1
+1329,national park,C30,10,1
+1330,national park,C340,1,1
+1331,national park,C60,2,1
+1332,national park,C600,2,1
+1333,national park,C60Z,2,1
+1334,national park,C99,1,1
+1335,national park,C99Z,1,1
+1336,national park,D30,1,1
+1337,national park,E22I,1,1
+1338,national park,G96Z,1,1
+1339,national park,N01,1,1
+1340,national park,N11,1,1
+1341,national park,N113,1,1
+1342,national park,N12,3,1
+1343,national park,N19,1,1
+1344,national park,N32,5,1
+1345,national park,N32C,1,1
+1346,national park,N32I,1,1
+1347,national park,N32Z,1,1
+1348,national park,N50,3,1
+1349,national park,N71,1,1
+1350,national park,P33,1,1
+1351,national park,Q200,1,1
+1352,national park,S20,1,1
+1353,national park,S41,2,1
+1354,national park,T20,1,1
+1355,national park,T30,1,1
+1356,national park,T30Z,1,1
+1357,national park,W11,1,1
+1358,national park,W99,2,1
+1359,national park,X20Z,1,1
+1360,national park,Z99,1,1
+1361,nature center,A11,1,1
+1362,nature center,A20,1,1
+1363,nature center,A500,1,1
+1364,nature center,A560,3,1
+1365,nature center,B90,1,1
+1366,nature center,B99,1,1
+1367,nature center,C036,1,1
+1368,nature center,C11,4,1
+1369,nature center,C116,23,1
+1370,nature center,C120,1,1
+1371,nature center,C27,1,1
+1372,nature center,C30,18,1
+1373,nature center,C300,1,1
+1374,nature center,C30Z,3,1
+1375,nature center,C34,1,1
+1376,nature center,C36,1,1
+1377,nature center,C410,2,1
+1378,nature center,C42,1,1
+1379,nature center,C50,1,1
+1380,nature center,C60,28,1
+1381,nature center,C600,54,1
+1382,nature center,C60Z,1,1
+1383,nature center,C99,4,1
+1384,nature center,C990,1,1
+1385,nature center,D113,1,1
+1386,nature center,D20,1,1
+1387,nature center,D30,2,1
+1388,nature center,D31,1,1
+1389,nature center,D32,1,1
+1390,nature center,D34,2,1
+1391,nature center,D34Z,1,1
+1392,nature center,D40,1,1
+1393,nature center,N11,1,1
+1394,nature center,N12,1,1
+1395,nature center,N192,1,1
+1396,nature center,N20,1,1
+1397,nature center,N31,1,1
+1398,nature center,N32,2,1
+1399,nature center,O52,1,1
+1400,nature center,P20,1,1
+1401,nature center,P30,1,1
+1402,nature center,P80,1,1
+1403,nature center,P99,1,1
+1404,nature center,S20,1,1
+1405,nature center,S22,1,1
+1406,nature center,S30,1,1
+1407,nature center,T20,1,1
+1408,nature center,T20Z,1,1
+1409,nature center,U31,1,1
+1410,nature center,X20,1,1
+1411,nature center,X99,1,1
+1412,nature center,Z99,1,1
+1413,nature park,A80,1,1
+1414,nature park,C11,1,1
+1415,nature park,C30,1,1
+1416,nature park,C50,1,1
+1417,nature park,C60,1,1
+1418,nature park,C99,1,1
+1419,nature park,D30,3,1
+1420,nature park,N11,1,1
+1421,nature park,N30,1,1
+1422,nature park,N32,6,1
+1423,nature park,N63,1,1
+1424,nature park,S99,1,1
+1425,nature preserve,A12,1,1
+1426,nature preserve,B11,1,1
+1427,nature preserve,B12,1,1
+1428,nature preserve,B90,1,1
+1429,nature preserve,C01,1,1
+1430,nature preserve,C113,1,1
+1431,nature preserve,C12,1,1
+1432,nature preserve,C19,1,1
+1433,nature preserve,C20,1,1
+1434,nature preserve,C27,2,1
+1435,nature preserve,C30,15,1
+1436,nature preserve,C30Z,1,1
+1437,nature preserve,C32,1,1
+1438,nature preserve,C34,2,1
+1439,nature preserve,C340,1,1
+1440,nature preserve,C60,2,1
+1441,nature preserve,C99,2,1
+1442,nature preserve,D30,3,1
+1443,nature preserve,N12,1,1
+1444,nature preserve,N30,1,1
+1445,nature preserve,N32,1,1
+1446,nature preserve,P99,1,1
+1447,nature preserve,T20,1,1
+1448,nature preserve,T30,1,1
+1449,nature preserve,T50,1,1
+1450,nature preserve,X99,1,1
+1451,nature preserve,Y50,2,1
+1452,nature reserve,C30,1,1
+1453,nature reserve,C32,1,1
+1454,nature reserve,C500,1,1
+1455,philatelic,A20,1,1
+1456,philatelic,A23,2,1
+1457,philatelic,A33Z,1,1
+1458,philatelic,A80Z,1,1
+1459,philatelic,A82Z,1,1
+1460,philatelic,A99,1,1
+1461,philatelic,A99I,1,1
+1462,philatelic,B70,5,1
+1463,philatelic,B76Z,1,1
+1464,philatelic,B80Z,1,1
+1465,philatelic,B99,2,1
+1466,philatelic,C35,1,1
+1467,philatelic,N039,1,1
+1468,philatelic,N50,11,1
+1469,philatelic,N500,1,1
+1470,philatelic,N60,1,1
+1471,philatelic,N990,1,1
+1472,philatelic,P20,1,1
+1473,philatelic,T50,1,1
+1474,planetarium,A12,1,1
+1475,planetarium,A20,1,1
+1476,planetarium,A500,3,1
+1477,planetarium,A560,1,1
+1478,planetarium,B11,2,1
+1479,planetarium,B20,1,1
+1480,planetarium,B82,1,1
+1481,planetarium,B90,1,1
+1482,planetarium,C11,1,1
+1483,planetarium,P20,1,1
+1484,planetarium,S46,1,1
+1485,planetarium,U31,1,1
+1486,planetarium,U99,1,1
+1487,seum,A01,3,1
+1488,seum,A015,1,1
+1489,seum,A02,1,1
+1490,seum,A020,1,1
+1491,seum,A025,1,1
+1492,seum,A03,7,1
+1493,seum,A030,11,1
+1494,seum,A035,4,1
+1495,seum,A050,1,1
+1496,seum,A11,81,1
+1497,seum,A110,17,1
+1498,seum,A112,2,1
+1499,seum,A114,2,1
+1500,seum,A115,141,1
+1501,seum,A116,2,1
+1502,seum,A118,2,1
+1503,seum,A12,22,1
+1504,seum,A120,3,1
+1505,seum,A125,10,1
+1506,seum,A128,1,1
+1507,seum,A19,7,1
+1508,seum,A195,3,1
+1509,seum,A20,52,1
+1510,seum,A200,3,1
+1511,seum,A20Z,3,1
+1512,seum,A23,30,1
+1513,seum,A230,2,1
+1514,seum,A25,11,1
+1515,seum,A25Z,1,1
+1516,seum,A26,1,1
+1517,seum,A26Z,2,1
+1518,seum,A30,2,1
+1519,seum,A31,3,1
+1520,seum,A32,1,1
+1521,seum,A40,8,1
+1522,seum,A400,15,1
+1523,seum,A40P,1,1
+1524,seum,A42Z,1,1
+1525,seum,A500,332,1
+1526,seum,A502,1,1
+1527,seum,A508,1,1
+1528,seum,A50A,1,1
+1529,seum,A50C,5,1
+1530,seum,A50I,15,1
+1531,seum,A50J,1,1
+1532,seum,A50M,7,1
+1533,seum,A50P,1,1
+1534,seum,A50Z,73,1
+1535,seum,A510,220,1
+1536,seum,A51I,16,1
+1537,seum,A51J,1,1
+1538,seum,A51M,1,1
+1539,seum,A51Q,1,1
+1540,seum,A51Z,10,1
+1541,seum,A520,119,1
+1542,seum,A525,1,1
+1543,seum,A52C,1,1
+1544,seum,A52I,4,1
+1545,seum,A53I,2,1
+1546,seum,A53M,1,1
+1547,seum,A53Z,4,1
+1548,seum,A540,409,1
+1549,seum,A54I,7,1
+1550,seum,A54M,4,1
+1551,seum,A54Z,48,1
+1552,seum,A55I,1,1
+1553,seum,A55M,1,1
+1554,seum,A55Z,3,1
+1555,seum,A560,51,1
+1556,seum,A56I,3,1
+1557,seum,A56J,1,1
+1558,seum,A56Z,5,1
+1559,seum,A570,30,1
+1560,seum,A57I,1,1
+1561,seum,A57Z,6,1
+1562,seum,A58M,2,1
+1563,seum,A58Z,7,1
+1564,seum,A59I,3,1
+1565,seum,A59M,2,1
+1566,seum,A59Z,23,1
+1567,seum,A5AZ,1,1
+1568,seum,A5IZ,1,1
+1569,seum,A60,6,1
+1570,seum,A60Z,2,1
+1571,seum,A62,2,1
+1572,seum,A68,8,1
+1573,seum,A70,3,1
+1574,seum,A72Z,1,1
+1575,seum,A80,189,1
+1576,seum,A800,7,1
+1577,seum,A80Z,8,1
+1578,seum,A82,4,1
+1579,seum,A82L,1,1
+1580,seum,A82Z,39,1
+1581,seum,A83Z,1,1
+1582,seum,A84,9,1
+1583,seum,A90,1,1
+1584,seum,A90Z,2,1
+1585,seum,A99,41,1
+1586,seum,A99Z,9,1
+1587,seum,B01,4,1
+1588,seum,B03,2,1
+1589,seum,B11,14,1
+1590,seum,B12,4,1
+1591,seum,B122,1,1
+1592,seum,B19,1,1
+1593,seum,B20,2,1
+1594,seum,B20Z,1,1
+1595,seum,B30,1,1
+1596,seum,B30M,1,1
+1597,seum,B51Z,2,1
+1598,seum,B60,2,1
+1599,seum,B70,14,1
+1600,seum,B700,3,1
+1601,seum,B70Z,4,1
+1602,seum,B71J,1,1
+1603,seum,B76Z,1,1
+1604,seum,B80,4,1
+1605,seum,B80Z,1,1
+1606,seum,B82,2,1
+1607,seum,B82Z,2,1
+1608,seum,B90,23,1
+1609,seum,B92,3,1
+1610,seum,B94,1,1
+1611,seum,B94Z,1,1
+1612,seum,B95Z,1,1
+1613,seum,B99,27,1
+1614,seum,B99M,1,1
+1615,seum,B99Z,4,1
+1616,seum,C30,1,1
+1617,seum,C30Z,1,1
+1618,seum,C32,1,1
+1619,seum,C42,1,1
+1620,seum,C420,1,1
+1621,seum,C50,1,1
+1622,seum,C60,3,1
+1623,seum,C99,1,1
+1624,seum,C99Z,2,1
+1625,seum,D115,1,1
+1626,seum,D500,1,1
+1627,seum,D51D,1,1
+1628,seum,D60,1,1
+1629,seum,D99,1,1
+1630,seum,E11,1,1
+1631,seum,E20Z,1,1
+1632,seum,E40,1,1
+1633,seum,G25,1,1
+1634,seum,I20,1,1
+1635,seum,I50,1,1
+1636,seum,J220,1,1
+1637,seum,J32Z,1,1
+1638,seum,K03,1,1
+1639,seum,K25,1,1
+1640,seum,K31,1,1
+1641,seum,K99,1,1
+1642,seum,L20,1,1
+1643,seum,M24,2,1
+1644,seum,N11,1,1
+1645,seum,N19,1,1
+1646,seum,N193,1,1
+1647,seum,N20,2,1
+1648,seum,N20Z,1,1
+1649,seum,N32Z,1,1
+1650,seum,N40,1,1
+1651,seum,N50,1,1
+1652,seum,N64,1,1
+1653,seum,N690,1,1
+1654,seum,N80,1,1
+1655,seum,N99,1,1
+1656,seum,O20,2,1
+1657,seum,O40Z,1,1
+1658,seum,O41,1,1
+1659,seum,O50,4,1
+1660,seum,P03,1,1
+1661,seum,P20,19,1
+1662,seum,P30,3,1
+1663,seum,P40,2,1
+1664,seum,P80,1,1
+1665,seum,P80Z,1,1
+1666,seum,P99,2,1
+1667,seum,P999,1,1
+1668,seum,Q11,1,1
+1669,seum,Q110,1,1
+1670,seum,Q112,5,1
+1671,seum,Q12,1,1
+1672,seum,Q20,1,1
+1673,seum,Q21,2,1
+1674,seum,Q33,1,1
+1675,seum,Q70,1,1
+1676,seum,R20,1,1
+1677,seum,S11,2,1
+1678,seum,S12,1,1
+1679,seum,S20,4,1
+1680,seum,S21,1,1
+1681,seum,S22,1,1
+1682,seum,S31,1,1
+1683,seum,S31I,1,1
+1684,seum,S40,1,1
+1685,seum,S41,2,1
+1686,seum,S47,1,1
+1687,seum,S50,1,1
+1688,seum,S80,2,1
+1689,seum,S80Z,1,1
+1690,seum,S99,1,1
+1691,seum,T11,8,1
+1692,seum,T12,5,1
+1693,seum,T20,7,1
+1694,seum,T20Z,1,1
+1695,seum,T22,9,1
+1696,seum,T22J,1,1
+1697,seum,T22Z,2,1
+1698,seum,T23,20,1
+1699,seum,T30,16,1
+1700,seum,T30Z,2,1
+1701,seum,T31,3,1
+1702,seum,T31Z,2,1
+1703,seum,T50,4,1
+1704,seum,T50I,2,1
+1705,seum,T50Z,2,1
+1706,seum,T70,1,1
+1707,seum,T70I,2,1
+1708,seum,T90,1,1
+1709,seum,T90I,1,1
+1710,seum,T99Z,4,1
+1711,seum,U21,1,1
+1712,seum,U300,1,1
+1713,seum,U31,1,1
+1714,seum,U40,2,1
+1715,seum,U42,1,1
+1716,seum,U99,3,1
+1717,seum,V31,1,1
+1718,seum,V33,1,1
+1719,seum,V99,1,1
+1720,seum,W11,1,1
+1721,seum,W20,1,1
+1722,seum,W30,1,1
+1723,seum,W99,5,1
+1724,seum,X19,1,1
+1725,seum,X20,5,1
+1726,seum,X21,1,1
+1727,seum,X22,2,1
+1728,seum,X30,4,1
+1729,seum,X70,1,1
+1730,seum,X99,2,1
+1731,seum,X99I,1,1
+1732,seum,X99Z,3,1
+1733,seum,Y03,1,1
+1734,seum,Y40Z,1,1
+1735,seum,Y42,1,1
+1736,seum,Z99,16,1
+1737,seum,Z99Z,20,1
+1738,vivarium,B90,1,1
+1739,vivarium,D05,1,1
+1740,wild animal park,B99,1,1
+1741,wild animal park,D500,1,1
+1742,wildlife park,C30,1,1
+1743,wildlife park,D20,1,1
+1744,wildlife park,T30Z,1,1
+1745,wildlife sanctuary,A560,1,1
+1746,wildlife sanctuary,C30,4,1
+1747,wildlife sanctuary,C32Z,1,1
+1748,wildlife sanctuary,C34,2,1
+1749,wildlife sanctuary,C600,1,1
+1750,wildlife sanctuary,C99,1,1
+1751,wildlife sanctuary,D113,1,1
+1752,wildlife sanctuary,D20,9,1
+1753,wildlife sanctuary,D30,15,1
+1754,wildlife sanctuary,D300,1,1
+1755,wildlife sanctuary,D30Z,1,1
+1756,wildlife sanctuary,D310,1,1
+1757,wildlife sanctuary,D32,1,1
+1758,wildlife sanctuary,D34,15,1
+1759,wildlife sanctuary,D340,11,1
+1760,wildlife sanctuary,D34Z,5,1
+1761,wildlife sanctuary,D99,1,1
+1762,wildlife sanctuary,T20,1,1
+1763,zoo,A01,1,1
+1764,zoo,A02,1,1
+1765,zoo,A11,1,1
+1766,zoo,A112,1,1
+1767,zoo,A115,2,1
+1768,zoo,A12,1,1
+1769,zoo,A20,4,1
+1770,zoo,A200,1,1
+1771,zoo,A20Z,1,1
+1772,zoo,A23,1,1
+1773,zoo,A25,2,1
+1774,zoo,A26,1,1
+1775,zoo,A260,1,1
+1776,zoo,A26Z,1,1
+1777,zoo,A40,1,1
+1778,zoo,A50M,1,1
+1779,zoo,A510,2,1
+1780,zoo,A60,3,1
+1781,zoo,A610,1,1
+1782,zoo,A62,2,1
+1783,zoo,A65,1,1
+1784,zoo,A68,2,1
+1785,zoo,A680,1,1
+1786,zoo,A690,1,1
+1787,zoo,A6B,2,1
+1788,zoo,A6BZ,1,1
+1789,zoo,A6C,1,1
+1790,zoo,A80,3,1
+1791,zoo,A80Z,1,1
+1792,zoo,A99,2,1
+1793,zoo,B03,1,1
+1794,zoo,B11,1,1
+1795,zoo,B115,1,1
+1796,zoo,B12,2,1
+1797,zoo,B20I,1,1
+1798,zoo,B20J,1,1
+1799,zoo,B21Z,2,1
+1800,zoo,B24Z,1,1
+1801,zoo,B41I,1,1
+1802,zoo,B420,1,1
+1803,zoo,B50,1,1
+1804,zoo,B60,1,1
+1805,zoo,B71Z,2,1
+1806,zoo,B82,3,1
+1807,zoo,B90,4,1
+1808,zoo,B92,1,1
+1809,zoo,B94,2,1
+1810,zoo,B99,6,1
+1811,zoo,C116,1,1
+1812,zoo,C20,1,1
+1813,zoo,C30,1,1
+1814,zoo,C320,1,1
+1815,zoo,C34,1,1
+1816,zoo,C42,1,1
+1817,zoo,C600,1,1
+1818,zoo,C99,3,1
+1819,zoo,D01,1,1
+1820,zoo,D025,1,1
+1821,zoo,D03,3,1
+1822,zoo,D030,1,1
+1823,zoo,D035,4,1
+1824,zoo,D05,1,1
+1825,zoo,D11,9,1
+1826,zoo,D110,3,1
+1827,zoo,D115,72,1
+1828,zoo,D12,2,1
+1829,zoo,D192,1,1
+1830,zoo,D195,1,1
+1831,zoo,D20,25,1
+1832,zoo,D200,2,1
+1833,zoo,D30,5,1
+1834,zoo,D31,1,1
+1835,zoo,D32,1,1
+1836,zoo,D34,4,1
+1837,zoo,D40C,1,1
+1838,zoo,D500,82,1
+1839,zoo,D50C,1,1
+1840,zoo,D50I,3,1
+1841,zoo,D50Z,3,1
+1842,zoo,D60,3,1
+1843,zoo,D99,5,1
+1844,zoo,E03,1,1
+1845,zoo,E32,1,1
+1846,zoo,E400,1,1
+1847,zoo,E50,1,1
+1848,zoo,E56J,1,1
+1849,zoo,E62B,1,1
+1850,zoo,E70,1,1
+1851,zoo,F22Z,1,1
+1852,zoo,G44,1,1
+1853,zoo,H99,1,1
+1854,zoo,I41Z,1,1
+1855,zoo,I60,1,1
+1856,zoo,I72Z,1,1
+1857,zoo,I80,1,1
+1858,zoo,J22,2,1
+1859,zoo,J40,3,1
+1860,zoo,K05,1,1
+1861,zoo,K31Z,1,1
+1862,zoo,L12,1,1
+1863,zoo,L20,4,1
+1864,zoo,L20Z,2,1
+1865,zoo,L21,2,1
+1866,zoo,L22,1,1
+1867,zoo,L41,1,1
+1868,zoo,L410,1,1
+1869,zoo,L50,1,1
+1870,zoo,L80,1,1
+1871,zoo,M20,1,1
+1872,zoo,M24,2,1
+1873,zoo,N03,1,1
+1874,zoo,N12,2,1
+1875,zoo,N30,2,1
+1876,zoo,N32Z,1,1
+1877,zoo,N50,7,1
+1878,zoo,N60,4,1
+1879,zoo,N63,2,1
+1880,zoo,N64,1,1
+1881,zoo,N65,1,1
+1882,zoo,N6A,1,1
+1883,zoo,N99,2,1
+1884,zoo,O02,1,1
+1885,zoo,O20,2,1
+1886,zoo,O23Z,1,1
+1887,zoo,O30,1,1
+1888,zoo,O40,1,1
+1889,zoo,O50,9,1
+1890,zoo,O99,2,1
+1891,zoo,P11,1,1
+1892,zoo,P12,1,1
+1893,zoo,P123,1,1
+1894,zoo,P192,1,1
+1895,zoo,P20,7,1
+1896,zoo,P27Z,1,1
+1897,zoo,P30,1,1
+1898,zoo,P60,1,1
+1899,zoo,P62,1,1
+1900,zoo,P70Z,1,1
+1901,zoo,P750,1,1
+1902,zoo,P80,2,1
+1903,zoo,P81,1,1
+1904,zoo,P81B,1,1
+1905,zoo,P81Z,1,1
+1906,zoo,P84,1,1
+1907,zoo,P99,2,1
+1908,zoo,Q21,1,1
+1909,zoo,R40,1,1
+1910,zoo,R62,1,1
+1911,zoo,S03,1,1
+1912,zoo,S20,2,1
+1913,zoo,S20Z,1,1
+1914,zoo,S31,1,1
+1915,zoo,S41,3,1
+1916,zoo,S41Z,1,1
+1917,zoo,S80,4,1
+1918,zoo,S81,1,1
+1919,zoo,S810,1,1
+1920,zoo,S82Z,1,1
+1921,zoo,S99,1,1
+1922,zoo,T00Z,1,1
+1923,zoo,T11,3,1
+1924,zoo,T113,1,1
+1925,zoo,T20,2,1
+1926,zoo,T30,1,1
+1927,zoo,T30I,1,1
+1928,zoo,T310,1,1
+1929,zoo,T50,4,1
+1930,zoo,T70,2,1
+1931,zoo,T70Z,1,1
+1932,zoo,T90Z,1,1
+1933,zoo,U11,1,1
+1934,zoo,U31,1,1
+1935,zoo,U40,1,1
+1936,zoo,U50,1,1
+1937,zoo,W035,1,1
+1938,zoo,W11,1,1
+1939,zoo,W22,1,1
+1940,zoo,W30,1,1
+1941,zoo,X111,1,1
+1942,zoo,X20,7,1
+1943,zoo,X20Z,4,1
+1944,zoo,X21,3,1
+1945,zoo,X21Z,1,1
+1946,zoo,X30,1,1
+1947,zoo,X70,1,1
+1948,zoo,X90,1,1
+1949,zoo,X99,3,1
+1950,zoo,Y43,2,1
+1951,zoo,Z99,1,1
+1952,zoological park,D030,1,1
+1953,zoological park,D115,1,1
+1954,zoological park,D34,1,1
+1955,zoological park,D500,2,1
